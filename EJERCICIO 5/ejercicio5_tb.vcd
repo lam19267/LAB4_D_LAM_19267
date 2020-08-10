@@ -1,0 +1,341 @@
+$date
+	Sun Aug 09 23:05:44 2020
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ps
+$end
+$scope module testbench $end
+$var wire 1 ! Y6 $end
+$var wire 1 " Y5 $end
+$var wire 1 # Y4 $end
+$var wire 1 $ Y3 $end
+$var wire 1 % Y2 $end
+$var wire 1 & Y1 $end
+$var reg 1 ' a1 $end
+$var reg 1 ( a2 $end
+$var reg 1 ) a3 $end
+$var reg 1 * a4 $end
+$var reg 1 + a5 $end
+$var reg 1 , a6 $end
+$var reg 1 - b1 $end
+$var reg 1 . b2 $end
+$var reg 1 / b3 $end
+$var reg 1 0 b4 $end
+$var reg 1 1 b5 $end
+$var reg 1 2 b6 $end
+$var reg 1 3 c1 $end
+$var reg 1 4 c2 $end
+$var reg 1 5 c3 $end
+$var reg 1 6 c4 $end
+$var reg 1 7 c5 $end
+$var reg 1 8 c6 $end
+$scope module G1 $end
+$var wire 1 ' A $end
+$var wire 1 - B $end
+$var wire 1 3 C $end
+$var wire 1 & Y $end
+$var wire 1 9 a1 $end
+$var wire 1 : a2 $end
+$var wire 1 ; a3 $end
+$var wire 1 < n1 $end
+$var wire 1 = n2 $end
+$var wire 1 > n3 $end
+$upscope $end
+$scope module G2 $end
+$var wire 1 ) A $end
+$var wire 1 / B $end
+$var wire 1 5 C $end
+$var wire 1 $ Y $end
+$var wire 1 ? a1 $end
+$var wire 1 @ a2 $end
+$var wire 1 A a3 $end
+$var wire 1 B a4 $end
+$var wire 1 C a5 $end
+$var wire 1 D n1 $end
+$var wire 1 E n2 $end
+$var wire 1 F n3 $end
+$upscope $end
+$scope module G3 $end
+$var wire 1 + A $end
+$var wire 1 1 B $end
+$var wire 1 7 C $end
+$var wire 1 " Y $end
+$var wire 1 G a1 $end
+$var wire 1 H a2 $end
+$var wire 1 I n2 $end
+$upscope $end
+$scope module O1 $end
+$var wire 1 ( A $end
+$var wire 1 . B $end
+$var wire 1 4 C $end
+$var wire 1 % Y $end
+$upscope $end
+$scope module O2 $end
+$var wire 1 * A $end
+$var wire 1 0 B $end
+$var wire 1 6 C $end
+$var wire 1 # Y $end
+$upscope $end
+$scope module O3 $end
+$var wire 1 , A $end
+$var wire 1 2 B $end
+$var wire 1 8 C $end
+$var wire 1 ! Y $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+xI
+xH
+xG
+xF
+xE
+xD
+xC
+xB
+xA
+x@
+x?
+1>
+1=
+1<
+0;
+0:
+09
+x8
+x7
+x6
+x5
+x4
+03
+x2
+x1
+x0
+x/
+x.
+0-
+x,
+x+
+x*
+x)
+x(
+0'
+0&
+x%
+x$
+x#
+x"
+x!
+$end
+#1
+0>
+13
+#2
+1>
+0=
+03
+1-
+#3
+0>
+13
+#4
+1&
+19
+1>
+1=
+0<
+03
+0-
+1'
+#5
+09
+0>
+1:
+13
+#6
+0&
+1>
+0:
+0=
+03
+1-
+#7
+1&
+0>
+1;
+13
+#8
+0%
+04
+0.
+0(
+#9
+14
+#10
+04
+1.
+#11
+14
+#12
+1%
+04
+0.
+1(
+#13
+14
+#14
+0%
+04
+1.
+#15
+1%
+14
+#16
+0$
+1@
+1A
+1B
+1F
+1C
+1E
+1D
+0?
+05
+0/
+0)
+#17
+0@
+0F
+15
+#18
+1F
+0A
+0E
+1?
+1@
+05
+1/
+#19
+0$
+0B
+0F
+1A
+15
+#20
+1$
+1F
+1E
+0D
+1B
+05
+0/
+1)
+#21
+0F
+15
+#22
+0$
+1F
+0C
+0E
+05
+1/
+#23
+1$
+0F
+1C
+15
+#24
+0#
+06
+00
+0*
+#25
+16
+#26
+06
+10
+#27
+16
+#28
+1#
+06
+00
+1*
+#29
+16
+#30
+0#
+06
+10
+#31
+1#
+16
+#32
+0"
+1I
+0G
+0H
+07
+01
+0+
+#33
+17
+#34
+0I
+07
+11
+#35
+17
+#36
+1"
+1G
+1I
+07
+01
+1+
+#37
+1H
+17
+#38
+0"
+0G
+0H
+0I
+07
+11
+#39
+1"
+1H
+17
+#40
+0!
+08
+02
+0,
+#41
+18
+#42
+08
+12
+#43
+18
+#44
+1!
+08
+02
+1,
+#45
+18
+#46
+0!
+08
+12
+#47
+1!
+18
+#97
